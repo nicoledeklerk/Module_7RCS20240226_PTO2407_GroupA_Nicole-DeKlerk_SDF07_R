@@ -4,8 +4,6 @@
     box-sizing: border-box;
 }
 
-/* Custom Properties, update these for your own design */
-
 :root {
     --ff-primary: 'Playfair Display', serif;
     --ff-secondary: 'Playfair Display', serif;
@@ -416,7 +414,7 @@ header {
 }
 
 
-/* footer ------don't understand why my social link icons don't appear?---------*/
+/* footer */
 
 .footer {
     background: #111;
@@ -471,6 +469,7 @@ header {
 }
 
 .portfolio-item-individual p {
+    color: black;
     max-width: 600px;
     margin-left: auto;
     margin-right: auto;
